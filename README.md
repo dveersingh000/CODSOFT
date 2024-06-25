@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps:
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd creative-digital-agency
+    cd CODSOFT
     ```
 3. **Open `index.html` in your web browser**:
     ```sh
